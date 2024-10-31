@@ -1,0 +1,13 @@
+DATA TYPE int 1
+IDENTIFIER a 1
+= = 1
+INT CONSTANT 45 1
+; ; 1
+DATA TYPE int 2
+DEF def 2
+IDENTIFIER jiya 2
+( ( 2
+IDENTIFIER a 2
+) ) 2
+{ { 3
+} } 5
